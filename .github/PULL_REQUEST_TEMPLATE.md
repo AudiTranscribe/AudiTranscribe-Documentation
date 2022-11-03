@@ -2,13 +2,15 @@
 
 Please include a summary of the change.
 
-## Type Of Change
+## Changes
 
-- [ ] Fixed spelling mistake
-- [ ] Fixed grammatical mistake
-- [ ] Enhanced clarity of documentation
-- [ ] Added documentation for feature
-    - [ ] A similar pull request on the [main repository](https://github.com/AudiTranscribe/AudiTranscribe) was drafted/submitted
+Please specify the type of change (delete when not applicable):
+
+- Fixed spelling mistake
+- Fixed grammatical mistake
+- Enhanced clarity of documentation
+- Added documentation for feature
+    - A similar pull request on the [main repository](https://github.com/AudiTranscribe/AudiTranscribe) was drafted/submitted
 
 ## Checklist
 
