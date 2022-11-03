@@ -156,10 +156,8 @@ by selecting the corresponding tab.
   **editing mode**.
     * Playback mode is primarily for listening to the audio and seeing the spectrogram. **Note editing is disabled in
       this mode**.
-    * Editing mode allows you to place and delete notes on the spectrogram. For more, see
-      the [Creating Notes](../reference/creating-and-editing-notes.md) chapter of the tutorial.
-        * You may still play the audio in edit mode, but you will not be able to click on the row of the note to play
-          the corresponding note.
+    * Editing mode allows you to place and delete notes on the spectrogram. You may still play the audio in edit mode,
+      but you will not be able to click on the row of the note to play the corresponding note.
 
 {% endtab %}
 

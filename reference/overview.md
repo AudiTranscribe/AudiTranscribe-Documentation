@@ -9,4 +9,4 @@ we are working on it!
 
 * [Keyboard Shortcuts](keyboard-shortcuts.md)
 * [Playing Notes](playing-notes.md)
-* [Creating and Editing Notes](creating-and-editing-notes.md)
+* [Creating, Deleting, and Editing Notes](creating-deleting-and-editing-notes.md)

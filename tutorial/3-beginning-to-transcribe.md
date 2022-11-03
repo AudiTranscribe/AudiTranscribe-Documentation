@@ -103,6 +103,6 @@ Congratulations! You have transcribed an audio file! Don't forget to save the pr
 the [exporting process](4-exporting.md).
 
 {% hint style="info" %}
-Learn more about [creating, editing](../reference/creating-and-editing-notes.md)
-and [playing](../reference/playing-notes.md) notes in the reference.
+Learn more about [playing](../reference/playing-notes.md),
+[creating, deleting, and editing](../reference/creating-deleting-and-editing-notes.md) notes in the reference.
 {% endhint %}
