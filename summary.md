@@ -22,3 +22,4 @@
 * [Keyboard Shortcuts](reference/keyboard-shortcuts.md)
 * [Playing Notes](reference/playing-notes.md)
 * [Creating, Deleting, and Editing Notes](reference/creating-deleting-and-editing-notes.md)
+* [Debug View](reference/debug-view.md)

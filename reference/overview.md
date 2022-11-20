@@ -10,3 +10,4 @@ we are working on it!
 * [Keyboard Shortcuts](keyboard-shortcuts.md)
 * [Playing Notes](playing-notes.md)
 * [Creating, Deleting, and Editing Notes](creating-deleting-and-editing-notes.md)
+* [Debug View](debug-view.md)

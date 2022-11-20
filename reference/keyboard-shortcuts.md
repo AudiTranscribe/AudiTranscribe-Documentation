@@ -20,4 +20,5 @@ We will use **Ctrl** (Control) for shortcuts. On macOS, use **⌘** (Command) fo
 | Redo                     | Redo edit action.                                         | Shift + Ctrl + `Z` |
 | Increase Playback Octave | Increase the playback octave by 1.                        | `=`                |
 | Decrease Playback Octave | Decrease the playback octave by 1.                        | `-`                |
-| Save Project             | Save the current project                                  | Ctrl + `S`         |
+| Save Project             | Save the current project.                                 | Ctrl + `S`         |
+| Show Debug View          | Shows the debug view, if debug mode is enabled.           | Ctrl + Shift + `D` |
