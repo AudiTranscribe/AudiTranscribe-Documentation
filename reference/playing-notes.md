@@ -10,7 +10,7 @@ AudiTranscribe supports the option of playing specific notes. There are two main
 To play a note, **click on the row of the note you want to play**. A sound at that frequency will be played.
 
 <figure>
-    <img src="img/click-on-spectrogram.jpg" alt="">
+    <img src="img/playing-notes/click-on-spectrogram.jpg" alt="">
     <figcaption>
         <p>Click on the spectrogram to play a note</p>
     </figcaption>
@@ -28,7 +28,7 @@ Playing notes with the keyboard has the advantage of allowing you to sustain the
 The following keys are used to play specific notes in the current playback octave.
 
 <figure>
-    <img src="img/play-notes-on-keyboard.svg" alt="">
+    <img src="img/playing-notes/play-notes-on-keyboard.svg" alt="">
     <figcaption>
         <p>Key-to-Note Mapping</p>
     </figcaption>
@@ -45,7 +45,7 @@ To identify the current playback octave, look at the note bar on the side of the
 in **yellow** is in the current playback octave.
 
 <figure>
-    <img src="img/note-bar.jpg" alt="">
+    <img src="img/playing-notes/note-bar.jpg" alt="">
     <figcaption>
         <p>Note Bar</p>
     </figcaption>

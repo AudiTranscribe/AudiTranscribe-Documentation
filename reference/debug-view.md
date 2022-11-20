@@ -27,7 +27,7 @@ When the debug mode is enabled, you are able to see the debug view. Press **Ctrl
 mac, **⌘ + Shift + D**) to open up the debug view.
 
 <figure>
-   <img src="img/debug-view.jpg" alt="">
+   <img src="img/debug-view/debug-view.jpg" alt="">
    <figcaption>
       <p>The Debug View</p>
    </figcaption>

@@ -14,7 +14,7 @@ All of these actions are only possible if you enter **edit mode**.
 ## Creating Notes
 
 <figure>
-    <img src="img/create-notes.gif" alt="">
+    <img src="img/creating-deleting-and-editing-notes/create-notes.gif" alt="">
     <figcaption>
         <p>Creating Notes</p>
     </figcaption>
@@ -32,7 +32,7 @@ GIF). The distance between the lines is determined via the BPM, the time signatu
 ## Deleting Notes
 
 <figure>
-    <img src="img/delete-notes.gif" alt="">
+    <img src="img/creating-deleting-and-editing-notes/delete-notes.gif" alt="">
     <figcaption>
         <p>Deleting Notes</p>
     </figcaption>
@@ -44,7 +44,7 @@ spot then nothing will occur.
 ## Moving Notes
 
 <figure>
-    <img src="img/moving-notes.gif" alt="">
+    <img src="img/creating-deleting-and-editing-notes/moving-notes.gif" alt="">
     <figcaption>
         <p>Moving Notes</p>
     </figcaption>
@@ -58,7 +58,7 @@ spot then nothing will occur.
 ## Resizing Notes
 
 <figure>
-    <img src="img/resizing-notes.gif" alt="">
+    <img src="img/creating-deleting-and-editing-notes/resizing-notes.gif" alt="">
     <figcaption>
         <p>Resizing Notes</p>
     </figcaption>
