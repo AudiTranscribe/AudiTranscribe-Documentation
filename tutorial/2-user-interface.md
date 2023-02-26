@@ -2,7 +2,7 @@
 description: Learn how to read the interface of AudiTranscribe.
 ---
 
-# 2. User Interface
+# User Interface
 
 This page will guide you through the user interface of AudiTranscribe.
 

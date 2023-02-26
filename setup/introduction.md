@@ -1,6 +1,6 @@
-# Setup Introduction
+# Introduction
 
 This section covers the setup process of AudiTranscribe.
 
-- [Installing AudiTranscribe](installing-auditranscribe.md)
-- [Setup Wizard](setup-wizard.md)
+* [installing-auditranscribe.md](installing-auditranscribe.md "mention")
+* [setup-wizard.md](setup-wizard.md "mention")

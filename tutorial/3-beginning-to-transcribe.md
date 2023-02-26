@@ -2,7 +2,7 @@
 description: Start transcribing audio in this section.
 ---
 
-# 3. Beginning to Transcribe
+# Beginning to Transcribe
 
 AudiTranscribe is built to assist you with transcribing audio pieces. This walkthrough will guide you through the
 process of transcribing an audio file.

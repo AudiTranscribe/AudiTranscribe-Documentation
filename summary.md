@@ -10,11 +10,11 @@
 
 ## 📘 Tutorial
 
-* [0. Overview](tutorial/0-overview.md)
-* [1. First Project](tutorial/1-first-project.md)
-* [2. User Interface](tutorial/2-user-interface.md)
-* [3. Beginning to Transcribe](tutorial/3-beginning-to-transcribe.md)
-* [4. Exporting](tutorial/4-exporting.md)
+* [Overview](tutorial/0-overview.md)
+* [First Project](tutorial/1-first-project.md)
+* [User Interface](tutorial/2-user-interface.md)
+* [Beginning to Transcribe](tutorial/3-beginning-to-transcribe.md)
+* [Exporting](tutorial/4-exporting.md)
 
 ## 📚 Reference
 

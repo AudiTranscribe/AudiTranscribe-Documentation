@@ -23,8 +23,7 @@ Currently, the only supported platforms for AudiTranscribe are Windows and macOS
     * If you see such an alert, click on "More Info", and then click on "Run Anyway" at the bottom of the screen.
 6. Follow the installation instructions.
 7. The application should be installed once completed.
-
-{% endtab %}
+   {% endtab %}
 
 {% tab title="macOS" %}
 
@@ -42,22 +41,20 @@ Currently, the only supported platforms for AudiTranscribe are Windows and macOS
 5. Once the command is run, open the `.dmg` file.
 6. Drag `AudiTranscribe.app` into the Applications folder.
 7. Run the application!
-
-{% endtab %}
+   {% endtab %}
 
 {% tab title="Linux" %}
-
 These instructions are most applicable to users on **Ubuntu**, or any Linux system that is running on `amd64`
 with `.deb` installation capabilities.
 
 1. Head to the latest releases section.
-    - If there are no current releases, you may want to choose a pre-release version instead.
+    * If there are no current releases, you may want to choose a pre-release version instead.
 2. Under the downloads section, download the Linux file.
 3. Unzip the installer package. The package should contain one `.deb` file.
 4. Open the `.deb` file using the "Software Install" application.
 5. Click "Install" on the window that appears.
 6. Wait for the application to fully install. Then, close the installer window.
-    - Make sure you [read the licence information](https://auditranscribe.app/licences) for AudiTranscribe.
+    * Make sure you [read the licence information](https://auditranscribe.app/licences) for AudiTranscribe.
 7. Run the application!
 
 {% endtab %}
@@ -82,3 +79,7 @@ mvn -B clean:clean compiler:compile javafx:jlink
 # Test installation
 mvn test
 ```
+
+### Next Step
+
+Finish the setup for AudiTranscribe in the [setup-wizard.md](setup-wizard.md "mention").

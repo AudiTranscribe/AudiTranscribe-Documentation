@@ -2,7 +2,7 @@
 description: Get started by making your first project in AudiTranscribe.
 ---
 
-# 1. First Project
+# First Project
 
 This page will guide you through setting up a new AudiTranscribe project.
 
@@ -40,15 +40,7 @@ If you cannot download the file, you can use [this download link](misc/Example.m
 6. Click on "Create" once you are comfortable with the settings.
 7. The application will now attempt to generate a spectrogram for that audio file and estimate the required things.
 
-   <figure>
-      <img src="img/1-first-project/setting-up-project.png" alt="Setting Up Project">
-      <figcaption>
-         <p>
-            This is what the transcription view will look like while the spectrogram and estimation processes are still
-            being performed.
-         </p>
-      </figcaption>
-   </figure>
+   <figure><img src="img/1-first-project/setting-up-project.png" alt="Setting Up Project"><figcaption><p>This is what the transcription view will look like while the spectrogram and estimation processes are still being performed.</p></figcaption></figure>
 
    Wait for all processes to complete. You can tell that it is done when the progress bar in the top-right corner
    disappears and the play/pause button becomes enabled.
@@ -59,4 +51,4 @@ Now you have a spectrogram! To save your progress, either
 * use the keyboard shortcut **Ctrl + S** (or **⌘ + S** on macOS).
 
 Congratulations! You have just created your first AudiTranscribe file! Move on to
-the [User Interface](2-user-interface.md) tutorial to learn how to understand the buttons on screen.
+the [2-user-interface.md](2-user-interface.md "mention") tutorial to learn how to understand the buttons on screen.
