@@ -77,6 +77,7 @@ The spectrogram section refers to the following part of the user interface.
 * A blue line can be seen on the spectrogram. This is the **playhead**, and shows where you are in the audio.
     * You can adjust the playhead by clicking on the progress meter on the bottom of the view. See
       the [#bottom-section](2-user-interface.md#bottom-section "mention").
+* The top-right corner shows the current memory use of AudiTranscribe.
 
 A helpful thing you can do is **click on the row of the note you want to play**. A sound at that frequency will be
 played. This is useful in providing a quick reference to what the frequency sounds.
