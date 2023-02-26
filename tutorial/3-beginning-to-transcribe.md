@@ -1,5 +1,5 @@
 ---
-description: Start transcribing audio in this section.
+description: Learn how to start transcribing audio.
 ---
 
 # Beginning to Transcribe
@@ -8,22 +8,24 @@ AudiTranscribe is built to assist you with transcribing audio pieces. This walkt
 process of transcribing an audio file.
 
 {% hint style="warning" %}
+This page assumes familiarity with the user interface. If you are not familiar with it, read the tutorial guide on
+the [2-user-interface.md](2-user-interface.md "mention").
+{% endhint %}
 
-* This page assumes familiarity with the [user interface](2-user-interface.md).
-* We will use the example project created in the [first chapter](1-first-project.md) of the tutorial.
-
+{% hint style="info" %}
+We will use the example project created in [1-first-project.md](1-first-project.md "mention").
 {% endhint %}
 
 <details>
 
 <summary>Adjusting Project Settings</summary>
 
-We will first need to adjust the music key, BPM, time signature, and playback offset.
+We will first need to adjust the music key, beats per minute (BPM), time signature, and playback offset.
 
 If you are using the example project file, and enabled estimation of both the BPM and the music key, the top section of
 the UI should show the following information:
 
-* **Music Key**: F Major
+* **Music Key**: C♯ Minor
 * **BPM**: 120.2
 * **Time Signature**: 4/4
 * **Offset**: 0
@@ -61,8 +63,7 @@ To move around the spectrogram, you can do one of a few things.
 
 * To scroll up or down, use the **scroll** **wheel** to scroll up or down.
 * To move left or right, drag the spectrogram by clicking and dragging on the spectrogram.
-* Alternatively, you can use the **scroll to playhead button** to help you move along the spectrogram.
-    * However, this is not recommended as it is very jerky.
+* Alternatively, you can click the **scroll to playhead button** to help you move along the spectrogram.
 
 </details>
 
@@ -78,17 +79,14 @@ Now that we have a good idea of how the music sounds, let's try and transcribe i
 2. Find a spot where the audio intensity is high.
     * The higher the audio intensity, the brighter the colour of the spectrogram. Some spots that are high intensity are
       shown in the image below.
-      <figure>
-         <img src="img/3-beginning-to-transcribe/high-intensity.jpg" alt="">
-         <figcaption>
-            <p>Some high intensity spots on the spectrogram</p>
-         </figcaption>
-      </figure>
+
+      <figure><img src="img/3-beginning-to-transcribe/high-intensity.png" alt="High Intensity Spots"><figcaption><p>Some high intensity spots on the spectrogram</p></figcaption></figure>
     * To determine if a note at that pitch is playing at that time, **disable note editing** mode before clicking on the
-      spectrogram to hear how that note would sound. **Remember to re-enable note editing before continuing!**
+      spectrogram to hear how that note would sound. <mark style="color:red;">**Remember to re-enable note editing
+      before continuing!**</mark>
 3. At that spot, click on the spectrogram. A pink rectangle should appear.
     * If you hear a note playing instead of seeing a pink rectangle created, enable note editing mode first by following
-      Step 1.
+      **Step 1**.
 4. Resize the note to the desired size. You can do this by dragging the sides of the note rectangle.
 5. To play the transcribed notes along with the audio, play the audio.
     * To mute the original audio playback, click on the mute audio button.
@@ -99,10 +97,13 @@ At this point, you should have an audio file with transcribed notes.
 
 </details>
 
-Congratulations! You have transcribed an audio file! Don't forget to save the project before continuing on with
-the [exporting process](4-exporting.md).
+Congratulations! You have transcribed an audio file! Don't forget to save the project before continuing on
+with [4-exporting.md](4-exporting.md "mention").
 
 {% hint style="info" %}
-Learn more about [playing](../reference/playing-notes.md),
-[creating, deleting, and editing](../reference/creating-deleting-and-editing-notes.md) notes in the reference.
+For more information, read the reference pages for:
+
+* [playing-notes.md](../reference/playing-notes.md "mention")
+* [creating-deleting-and-editing-notes.md](../reference/creating-deleting-and-editing-notes.md "mention")
+
 {% endhint %}
