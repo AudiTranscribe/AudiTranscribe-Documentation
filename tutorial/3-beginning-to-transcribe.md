@@ -104,6 +104,6 @@ with [4-exporting.md](4-exporting.md "mention").
 For more information, read the reference pages for:
 
 * [playing-notes.md](../reference/playing-notes.md "mention")
-* [creating-deleting-and-editing-notes.md](../reference/creating-deleting-and-editing-notes.md "mention")
+* [note-operations.md](../reference/note-operations.md "mention")
 
 {% endhint %}

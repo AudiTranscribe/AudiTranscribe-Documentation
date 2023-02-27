@@ -1,4 +1,4 @@
-# Reference Overview
+# Overview
 
 These pages provide information about AudiTranscribe's functionality.
 
@@ -9,5 +9,5 @@ we are working on it!
 
 * [keyboard-shortcuts.md](keyboard-shortcuts.md "mention")
 * [playing-notes.md](playing-notes.md "mention")
-* [creating-deleting-and-editing-notes.md](creating-deleting-and-editing-notes.md "mention")
+* [note-operations.md](note-operations.md "mention")
 * [debug-view.md](debug-view.md "mention")

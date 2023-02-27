@@ -17,7 +17,7 @@ If this is your first time, there will not be any projects that are shown.\
 The following steps will guide you through how to create a transcription. You can use the following example file if you
 do not have a file to try out the transcription.
 
-{% file src="../.gitbook/assets/Example.mp3" %}
+{% file src="misc/Example.mp3" %}
 An example file to use for transcription.
 {% endfile %}
 
