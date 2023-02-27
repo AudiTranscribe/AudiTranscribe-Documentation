@@ -7,7 +7,7 @@ We are working to adding all features into these references, but not all of them
 we are working on it!
 {% endhint %}
 
-* [Keyboard Shortcuts](keyboard-shortcuts.md)
-* [Playing Notes](playing-notes.md)
-* [Creating, Deleting, and Editing Notes](creating-deleting-and-editing-notes.md)
-* [Debug View](debug-view.md)
+* [keyboard-shortcuts.md](keyboard-shortcuts.md "mention")
+* [playing-notes.md](playing-notes.md "mention")
+* [creating-deleting-and-editing-notes.md](creating-deleting-and-editing-notes.md "mention")
+* [debug-view.md](debug-view.md "mention")
