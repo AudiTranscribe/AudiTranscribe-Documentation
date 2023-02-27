@@ -3,8 +3,8 @@
 AudiTranscribe supports the creation, deletion, and editing of notes on the transcription view.
 
 {% hint style="info" %}
-You can always undo/redo any of these actions. To see how, look at the
-[keyboard shortcuts reference](keyboard-shortcuts.md) document.
+You can always undo/redo any of these actions. To see how, look at
+the [keyboard-shortcuts.md](keyboard-shortcuts.md "mention") reference page.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -13,12 +13,7 @@ All of these actions are only possible if you enter **edit mode**.
 
 ## Creating Notes
 
-<figure>
-    <img src="img/creating-deleting-and-editing-notes/create-notes.gif" alt="">
-    <figcaption>
-        <p>Creating Notes</p>
-    </figcaption>
-</figure>
+<figure><img src="img/creating-deleting-and-editing-notes/create-notes.gif" alt="Create Notes"><figcaption><p>Creating Notes</p></figcaption></figure>
 
 Notes can be created on the spectrogram. Simply **left-click** on the spectrogram to place the note rectangle at that
 location.
@@ -31,24 +26,14 @@ GIF). The distance between the lines is determined via the BPM, the time signatu
 
 ## Deleting Notes
 
-<figure>
-    <img src="img/creating-deleting-and-editing-notes/delete-notes.gif" alt="">
-    <figcaption>
-        <p>Deleting Notes</p>
-    </figcaption>
-</figure>
+<figure><img src="img/creating-deleting-and-editing-notes/delete-notes.gif" alt="Delete Notes"><figcaption><p>Deleting Notes</p></figcaption></figure>
 
 Notes can be deleted from the spectrogram by **right-clicking** on the note rectangle. If there is no rectangle at that
 spot then nothing will occur.
 
 ## Moving Notes
 
-<figure>
-    <img src="img/creating-deleting-and-editing-notes/moving-notes.gif" alt="">
-    <figcaption>
-        <p>Moving Notes</p>
-    </figcaption>
-</figure>
+<figure><img src="img/creating-deleting-and-editing-notes/moving-notes.gif" alt="Moving Notes"><figcaption><p>Moving Notes</p></figcaption></figure>
 
 * When moving notes is possible, a **hand icon** will be shown.
 * Use the **left click** to drag notes around.
@@ -57,12 +42,7 @@ spot then nothing will occur.
 
 ## Resizing Notes
 
-<figure>
-    <img src="img/creating-deleting-and-editing-notes/resizing-notes.gif" alt="">
-    <figcaption>
-        <p>Resizing Notes</p>
-    </figcaption>
-</figure>
+<figure><img src="img/creating-deleting-and-editing-notes/resizing-notes.gif" alt="Resizing Notes"><figcaption><p>Resizing Notes</p></figcaption></figure>
 
 * When resizing notes is possible, a double-arrow icon will be shown (see above GIF).
 * Use the **left click** to resize notes.
