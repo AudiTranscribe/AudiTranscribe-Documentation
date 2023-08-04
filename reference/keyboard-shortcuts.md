@@ -15,9 +15,6 @@ We will use **Ctrl** (Control) for shortcuts. On macOS, use **⌘** (Command) fo
 | Seek 1 Second Before     | Seek 1 second before the current playback point.          | Left               |
 | Seek 1 Second After      | Seek 1 second after the current playback point.           | Right              |
 | Toggle Scroll            | Toggle scroll to the playhead.                            | `.`                |
-| Toggle Edit Mode         | Toggle note editing mode.                                 | `N`                |
-| Undo                     | Undo edit action.                                         | Ctrl + `Z`         |
-| Redo                     | Redo edit action.                                         | Shift + Ctrl + `Z` |
 | Increase Playback Octave | Increase the playback octave by 1.                        | `=`                |
 | Decrease Playback Octave | Decrease the playback octave by 1.                        | `-`                |
 | Save Project             | Save the current project.                                 | Ctrl + `S`         |

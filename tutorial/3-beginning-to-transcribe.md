@@ -73,37 +73,20 @@ To move around the spectrogram, you can do one of a few things.
 
 Now that we have a good idea of how the music sounds, let's try and transcribe it by hand.
 
-1. Enable **editing mode**. You can do this by either
-    * pressing the **edit mode button** at the bottom of the window, or
-    * pressing the **N** key on your keyboard.
-2. Find a spot where the audio intensity is high.
+1. Find a spot where the audio intensity is high.
     * The higher the audio intensity, the brighter the colour of the spectrogram. Some spots that are high intensity are
       shown in the image below.
 
       <figure><img src="img/3-beginning-to-transcribe/high-intensity.png" alt="High Intensity Spots"><figcaption><p>Some high intensity spots on the spectrogram</p></figcaption></figure>
-    * To determine if a note at that pitch is playing at that time, **disable note editing** mode before clicking on the
-      spectrogram to hear how that note would sound. <mark style="color:red;">**Remember to re-enable note editing
-      before continuing!**</mark>
-3. At that spot, click on the spectrogram. A pink rectangle should appear.
-    * If you hear a note playing instead of seeing a pink rectangle created, enable note editing mode first by following
-      **Step 1**.
-4. Resize the note to the desired size. You can do this by dragging the sides of the note rectangle.
-5. To play the transcribed notes along with the audio, play the audio.
-    * To mute the original audio playback, click on the mute audio button.
-    * To mute the notes' playback, click on the mute notes button.
-6. Repeat steps 2 to 5 until you have transcribed the audio sufficiently.
-
-At this point, you should have an audio file with transcribed notes.
+    * To determine if a note at that pitch is playing at that time, click on the spectrogram to hear how that note would
+      sound.
+2. Identify the note that is being played by looking at the left sidebar.
+3. The duration of the note can be identified by looking at how long the bar lasts.
 
 </details>
 
-Congratulations! You have transcribed an audio file! Don't forget to save the project before continuing on
-with [4-exporting.md](4-exporting.md "mention").
+Congratulations! You have transcribed an audio file! Don't forget to save the project.
 
 {% hint style="info" %}
-For more information, read the reference pages for:
-
-* [playing-notes.md](../reference/playing-notes.md "mention")
-* [note-operations.md](../reference/note-operations.md "mention")
-
+For more information, read the reference pages for [playing-notes.md](../reference/playing-notes.md "mention").
 {% endhint %}

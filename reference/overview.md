@@ -9,5 +9,4 @@ we are working on it!
 
 * [keyboard-shortcuts.md](keyboard-shortcuts.md "mention")
 * [playing-notes.md](playing-notes.md "mention")
-* [note-operations.md](note-operations.md "mention")
 * [debug-view.md](debug-view.md "mention")

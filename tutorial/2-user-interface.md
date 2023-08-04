@@ -24,13 +24,9 @@ The top section is divided into subsections. Learn about each of the subsections
 {% tab title="Left" %}
 <figure><img src="img/2-user-interface/top-left.png" alt="Top Left"><figcaption><p>The left subsection</p></figcaption></figure>
 
-The left subsection contains volume controls.
-
-* The left set of volume controls is for the **audio playback**. This is the volume of the audio that will be played as
-  you transcribe.
-* The right set of volume controls is for the **notes' playback**. After notes are placed, this slider and button
-  controls the volume of the notes that may be played.
-  {% endtab %}
+The left subsection contains the volume control for the **audio playback**. This is the volume of the audio that will be
+played as you transcribe. Click on the speaker icon to mute the audio.
+{% endtab %}
 
 {% tab title="Middle" %}
 <figure><img src="img/2-user-interface/top-middle.png" alt="Top Middle"><figcaption><p>The middle subsection</p></figcaption></figure>
@@ -103,15 +99,9 @@ by selecting the corresponding tab.
 {% tab title="Left" %}
 <figure><img src="img/2-user-interface/bottom-left.png" alt="Bottom Left"><figcaption><p>The left subsection</p></figcaption></figure>
 
-* The _map marker_ button is the **scroll to playhead button**. Toggle it to automatically scroll along the spectrogram
-  as the audio is playing.
-* The _pencil_ button is the **edit mode button**. This button allows you to toggle between **playback mode** and *
-  *editing mode**.
-    * Playback mode is primarily for listening to the audio and seeing the spectrogram. **Note editing is disabled in
-      this mode**.
-    * Editing mode allows you to place and delete notes on the spectrogram. You may still play the audio in edit mode,
-      but you will not be able to click on the row of the note to play the corresponding note.
-      {% endtab %}
+The _map marker_ button is the **scroll to playhead button**. Toggle it to automatically scroll along the spectrogram as
+the audio is playing.
+{% endtab %}
 
 {% tab title="Middle" %}
 <figure><img src="img/2-user-interface/bottom-middle.png" alt="Bottom Middle"><figcaption><p>The middle subsection</p></figcaption></figure>
